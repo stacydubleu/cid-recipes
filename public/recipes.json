@@ -1,0 +1,175 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Bun Bo Hue",
+      "author": "",
+      "description": "Hey ya'll this is the recipe I used to make Bun Bo Hue for the first time. I won't lie; I only recently started cooking Asian dishes so the ingredients list was intimidating initially, but let me tell you something. The moment the scent of the lemongrass oils permeates through your apartment, you'll have ZERO regrets haha!",
+      "servings": "",
+      "prep": "",
+      "ingredients": {
+        "Broth Meats/Bones": [
+          "1.5 lbs beef bones",
+          "1.5 lbs pork hock (pig’s foot)",
+          "1 lb beef shank or brisket (feel free to add more)",
+          "12 cups of water"
+        ],
+        "Broth Spices (these items will be part of the three hour simmer)": [
+          "1 onion",
+          "4 stalks lemongrass",
+          "5 kaffir lime leaves (if you can’t find this, double up on the lemongrass. I couldn’t find the lime leaves and it still came out really good!)",
+          "1.5 tablespoons of shrimp paste (this is flexible. Use as a baseline then add more if you want more flavor)",
+          "2 whole star anise",
+          "2 tablespoons of brown sugar (doesn’t really matter the type)",
+          "4 slices of ginger (thickness is up to you but somewhat thin)",
+          "4 tablepoons of fish sauce (baseline -> add more as you taste the broth)",
+          "3-4 cloves of garlic"
+        ],
+        "Sate Chili": [
+          "7 tablespoons of oil (we used canola)",
+          "1 tablespoon of annatto seeds",
+          "2 tablespoons of chili flakes (add less if you have less tolerance to spice)",
+          "1 tablespoon of lemongrass (finely minced)",
+          "2 cloves garlic (finely minced)",
+          "3 shallots (finely minced)"
+        ],
+        "Noodles": [
+          "1 package of Bun Bo Hue Noodles or any thick round rice vermicelli noodles"
+        ],
+        "Toppings/Garnishes": [
+          "bean sprout",
+          "limes",
+          "thinly Sliced onions",
+          "cilantro",
+          "birds eye chili (if you need more of a kick)",
+          "thinly sliced red cabbage",
+          "thai basil or mint leaves"
+        ]
+      },
+      "directions": {
+        "I picked up the majority of the ingredients from 99 Ranch in Kent. The broth will take the longest, so we’ll start there.": [
+          "In a large pot, add cold water and all the meats. Set the stove to medium to high until it boils for 15-20 minutes. (During the heat up + boil time, proceed to prepare the spices). You’ll see that the blood and excess fats that are rising to the liquid surface. You can either: \nPour out all of the liquid. -> Rinse off the meats -> Add them back into the pot with 12 cups of water.\nOr use a strainer and remove the fatty bits and continue to use the water for the broth. (This is the option I went with and the broth looked fine after straining). Make sure you've already added 12 cups of water if you go with this method."
+        ],
+        "Preparing the Spices": [
+          "Take your lemongrass and remove the 1⁄3 of the top of the stalk (thin dry portion). We are keeping the bottom 2⁄3 of the stalk. Use a kitchen mallet to smash the hard stalk of the lemon grass. Once they split open, you’ll be able to smell the oils releasing. Tie up your stalks lemongrass with some string. (It’ll make removing later much easier)",
+          "Add the following from the broth spices into the pot (only add to pot if the broth step above is complete. If not, have the spices ready until then): \nonion in 1⁄2, \n3-4 garlic cloves (peeling them is fine. Don’t dice.), \n4 ginger slices, \n2 tablespoons of brown sugar, \nlime leaves (if you have some), \nstar Anise, \n~1.5 tablespoons of shrimp paste (mix with 1⁄4 cup of water before adding it to the pot), \nfish sauce (2 tablespoons first, add more as needed up to the 4 mentioned)",
+          "Turn the heat down to medium low and set a timer for 1 hour and 30 minutes. During the first hour and half of simmering, you can move onto the making the Sate chili sauce.",
+          "Check the broth ocassionally and add additional water (2-3 cups) if the broth level has reduced a lot.",
+          "After the 1.5 hr simmer, remove the beef shank and let it sit covered.",
+          "On medium-low flame, set timer for another 1 hour and 30 minutes. (Totaling 3 hours of simmer time)",
+          "After the second simmer, discard the spices: lemongrass, lime leaves, ginger, garlic, star anise, onion (your broth will be bitter if you keep them there too long)",
+          "Remove the pork hock and beef bones."
+        ],
+        "Sautéing the Sate Chili": [
+          "In a sauce pan, add the 7 tablespoons of oil (if you don’t want it as oily, use less) and set the stove to medium heat",
+          "Add: \n2 tablespoons of chili flakes (use less if you want it less spicy), \n2 tablespoons of chili flakes (use less if you want it less spicy), \n1 tablespoon of finely minced lemongrass (I forgot to leave a chunk of lemongrass for this and it still came out good), \n2 cloves of finely minced garlic, \n3 cloves of finely minced shallots",
+          "Toast it on low heat for 10 minutes",
+          "Turn off the heat and let it cool.",
+          "Add it to the broth once it has cooled (Remember what hot oil does when it touches water)"
+        ],
+        "Preparing the Noodles": [
+          "Make the noodles according to the package. Subtract about 1 minute from the total cook time to make sure they’re springy/bouncy noodles (test the noodles before you take it out of the pot)",
+          "Run the noodles under cold water. Add some oil if you won’t want the to stick.",
+          "Add noodles to the bowl",
+          "Add thinly sliced beef shank, chopped pork shank, and any garnishes you’d like.",
+          "Pour soup and enjoy (◕‿◕✿)"
+        ]
+      },
+      "tags": ["Vietnamese", "Beef", "Pork", "Noodles", "Soup", "Mains"]
+    },
+    {
+      "id": 2,
+      "name": "Cà Ri Gà - Vietnamese Coconut Chicken Curry",
+      "author": "",
+      "description": "",
+      "servings": "8 servings",
+      "prep": "1 hour",
+      "ingredients": {
+        "Marinade": [
+          "2 lbs chicken (chicken thighs preferred; cut into bite-sized pieces)",
+          "1 teaspoon salt",
+          "2 teaspoons chicken bouillon powder",
+          "1 tablespoon granulated sugar",
+          "1/4 teaspoon ground black pepper",
+          "1 tablespoon madras yellow curry powder"
+        ],
+        "Broth": [
+          "1/4 cup vegetable oil",
+          "2 tablespoons minced lemongrass",
+          "5 cloves garlic (minced)",
+          "1 large shallot (minced)",
+          "5 lime/lemon/bay leaves (optional)",
+          "3 cups water",
+          "13.5 oz coconut milk",
+          "1 carrot (peel, cut into 1/2 inch coins",
+          "1 potato (peel, cut twice the size of carrots",
+          "1/2 yelow onion (slice into wedges)",
+          "1 tsp salt",
+          "1 tablespoon fish sauce",
+          "1 tablespoon granulated sugar"
+        ]
+      },
+      "directions": [
+        "In a bowl, mix the marinade ingredients together. Add the chicken pieces and mix until they are evenly coated. Cover and refrigerate for at least 1 hour.",
+        "In a large pot, heat the oil over medium heat. Add the lemongrass, garlic, shallot, and lime/lemon/bay leaves. Cook until fragrant, about 1 minute.",
+        "Add the chicken pieces and cook until they are no longer pink, about 5 minutes.",
+        "Add the broth ingredients and bring to a boil. Reduce heat and simmer for 20 minutes.",
+        "Add the coconut milk and simmer for another 10 minutes."
+      ],
+      "tags": ["Vietnamese", "Chicken", "Curry", "Coconut", "Mains"]
+    },
+    {
+      "id": 3,
+      "name": "Bún riêu (Vietnamese crab, pork, tomato vermicelli soup)",
+      "author": "Cindy Vu",
+      "description": "Bún riêu holds a special place in my heart as a true seafood girl. This heavenly soup has been an integral part of my life since childhood, often causing me to daydream during long school days. The mere anticipation of my Bà nội preparing this dish for dinner would send me racing home with excitement.",
+      "servings": "",
+      "prep": "",
+      "ingredients": {
+        "ingredients": [
+          "1 lb (454g) ground pork",
+          "1 lb (454g) pork spare ribs, cut into bite-sized pieces",
+          "6-8 large eggs",
+          "2 cans (6 oz / 170g each) of crab meat, or 12 oz (340g) fresh crab meat",
+          "1 package (14 oz / 396g) fried tofu, cubed",
+          "8 oz (226g) dry vermicelli noodles",
+          "8 cups (2 liters) chicken broth for soup base",
+          "5 medium-sized tomatoes",
+          "1 bunch green onions, chopped",
+          "2-3 tablespoons shrimp paste, or to taste",
+          "1 jar (4 oz / 113g) minced crab paste",
+          "2 tablespoons chicken bouillon powder, or to taste"
+        ],
+        "Seasoning": [
+          "salt and pepper",
+          "fish sauce (Nước mắm)",
+          "garlic powder",
+          "onion powder"
+        ]
+      },
+      "directions": {
+        "directions": [
+          "In a large bowl, combine ground pork, beaten eggs, crab meat, and crab paste. Season the mixture with salt, pepper, minced garlic, and 1-2 tablespoons of shrimp paste (adjust to taste).",
+          "In a pot, bring chicken broth or chicken bouillon soup base to a boil.",
+          "While waiting for the soup to boil, prepare the tofu and tomatoes by cutting them into quarters.",
+          "In a separate pot, bring water to a boil. Cook the pork spare ribs in the boiling water. Once cooked, drain the water and rinse the spare ribs. Set them aside for later use.",
+          "Once the soup is boiling, gradually add the meat mixture. Use a ladle to drop in small portions, about 1/4 of the mixture at a time, allowing each addition to cook before adding more.",
+          "Add the quartered tofu and tomatoes to the pot. Reduce heat and let the soup simmer until the tomatoes are cooked through.",
+          "Then add the cook and rise spare ribs into the pot",
+          "Adjust the seasoning to your preference by adding fish sauce (Nước mắm) or additional shrimp paste.",
+          "Ladle the hot soup into bowls and garnish with chopped green onions before serving.",
+          "Enjoy!!!"
+        ]
+      },
+      "tags": [
+        "Vietnamese",
+        "Crab",
+        "Pork",
+        "Tomato",
+        "Vermicelli",
+        "Soup",
+        "Mains"
+      ]
+    }
+  ]
+}
