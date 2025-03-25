@@ -31,14 +31,16 @@ export default function RootLayout({
         <header className='flex flex-row align-left px-8 sm:px-16 md:px-32 py-8 sm:py-16 gap-8 '>
           <Link href='/' className='mt-auto'>
             <b>
-              <h1 className='basis-1/6 mt-auto'>CID Recipes</h1>
+              <h1 className='basis-1/6 mt-auto text-xlg font-semibold'>
+                CID Recipes
+              </h1>
             </b>
           </Link>
           <div className='basis-5/6'>
             <Search />
           </div>
         </header>
-        <div className='px-8 sm:px-16 md:px-32 pt-8'>{children}</div>
+        <div className='px-8 sm:px-16 md:px-32 lg:px-48 pt-8'>{children}</div>
       </body>
     </html>
   );

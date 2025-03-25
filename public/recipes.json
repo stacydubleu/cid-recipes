@@ -170,6 +170,61 @@
         "Soup",
         "Mains"
       ]
+    },
+    {
+      "id": 4,
+      "name": "Buns",
+      "author": "",
+      "description": "Tomatoes, beef, and brioche bun.",
+      "servings": "",
+      "prep": "",
+      "ingredients": {
+        "ingredients": ["1 Tomato", "1 Beef Patty", "1 Brioche Bun"]
+      },
+      "directions": {
+        "directions": [
+          "Slice the tomato",
+          "Cook the beef patty",
+          "Toast the brioche bun",
+          "Assemble the bun"
+        ]
+      },
+      "tags": ["American", "Beef", "Tomato", "Brioche", "Burger", "Mains"]
+    },
+    {
+      "id": 5,
+      "name": "Dumplings",
+      "author": "",
+      "description": "Dumplings with pork and shrimp.",
+      "servings": "",
+      "prep": "",
+      "ingredients": {
+        "ingredients": [
+          "Dumpling wrappers",
+          "1 bunch green onions, chopped",
+          "1 lb ground pork",
+          "1 lb shrimp, peeled and deveined",
+          "1 tablespoon minced garlic",
+          "1 tablespoon minced ginger",
+          "1 tablespoon soy sauce",
+          "1 tablespoon oyster sauce",
+          "1 tablespoon sesame oil",
+          "1 teaspoon sugar",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper"
+        ]
+      },
+      "directions": {
+        "directions": [
+          "In a large bowl, combine the ground pork, shrimp, green onions, garlic, ginger, soy sauce, oyster sauce, sesame oil, sugar, salt, and pepper.",
+          "Place a small spoonful of the pork and shrimp mixture in the center of a dumpling wrapper.",
+          "Fold the wrapper in half and seal the edges with water.",
+          "Repeat with the remaining wrappers and filling.",
+          "Steam the dumplings for 10-12 minutes, or until cooked through.",
+          "Serve hot with soy sauce or your favorite dipping sauce."
+        ]
+      },
+      "tags": ["Chinese", "Pork", "Shrimp", "Dumplings", "Mains"]
     }
   ]
 }
