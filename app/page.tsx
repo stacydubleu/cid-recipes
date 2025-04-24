@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import data from '@/public/recipes.json';
+import { fetchRecipes } from '@/lib/api/recipes';
 
 type Recipe = {
   id: number;
@@ -14,13 +14,14 @@ type Recipe = {
   tags: string[];
 };
 
-export default function Home() {
+export default async function Home() {
+  const recipes = await fetchRecipes();
   return (
     <div className='grid items-top justify-items-center min-h-screen font-[family-name:var(--font-geist-sans)]'>
       <main className='flex flex-col gap-8 items-center sm:items-start'>
         <h1 className='text-4xl font-bold'>CID Recipes</h1>
         <ul className='list-inside list-disc'>
-          {data.recipes.map((recipe: Recipe) => (
+          {recipes.map((recipe: Recipe) => (
             <li key={recipe.id}>
               <Link href={`/recipes/${recipe.id}`}>{recipe.name}</Link>
             </li>

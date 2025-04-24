@@ -1,6 +1,6 @@
 'use client';
 import { useEffect, useState, useCallback, useRef } from 'react';
-import debounce from 'lodash/debounce';
+import debounce from 'lodash.debounce';
 import data from '@/public/recipes.json';
 
 type Recipe = {
